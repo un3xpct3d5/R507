@@ -1,4 +1,6 @@
 {
+    "name": "iut/tp2-r507",
+    "description": "Projet pour le TP2 de Chaine de prod (R507)",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
